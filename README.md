@@ -4,9 +4,9 @@ Os arquivos deste repositório foram desenvolvidos usando o editor de imagens GI
 Aprendizados 🤯
 Ferramentas utilizadas:
 
-seleção
-*clonagem
-*transformação
-*degradar
-*pincel
-*Logotipo
+* seleção
+* clonagem
+* transformação
+* degradar
+* pincel
+* Logotipo
